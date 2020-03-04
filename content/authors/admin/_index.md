@@ -15,10 +15,15 @@ role: Undergraduate Student of Computer Science
 organizations:
 - name: Shanghai Jiao Tong University
   url: ""
+  
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 interests:
 - Machine Learning
 - Computer Vision
 - Reinforcement Learning
+
+---
 
 I am a third-year undergraduate student in the Computer Science department at Shanghai Jiao Tong University.
