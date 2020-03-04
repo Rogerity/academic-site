@@ -22,7 +22,6 @@ interests:
 - Reinforcement Learning
 
 education:
-  courses:
   - course: BSc in Computer Science
     institution: Shanghai Jiao Tong University
     year: 2021
