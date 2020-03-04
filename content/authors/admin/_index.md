@@ -1,7 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
-
+name: Ruoyu Cheng
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,11 +9,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shanghai Jiao Tong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
